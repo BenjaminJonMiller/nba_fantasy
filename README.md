@@ -1,2 +1,2 @@
 # nba_fantasy
-repo for all 
+repo for all nba fantasy stats, models and misc.
